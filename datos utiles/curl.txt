@@ -1,0 +1,60 @@
+
+curl "https://app4.utp.edu.co/pe/libraries/validar.js" ^
+  -H "sec-ch-ua: ^\^"Chromium^\^";v=^\^"116^\^", ^\^"Not)A;Brand^\^";v=^\^"24^\^", ^\^"Google Chrome^\^";v=^\^"116^\^"" ^
+  -H "Referer: https://app4.utp.edu.co/pe/" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  --compressed
+
+vieja
+curl "https://app4.utp.edu.co/pe/validacion.php" ^
+  -H "Accept: application/json, text/javascript, */*; q=0.01" ^
+  -H "Accept-Language: es-ES,es;q=0.9" ^
+  -H "Connection: keep-alive" ^
+  -H "Content-Type: application/x-www-form-urlencoded" ^
+  -H "Cookie: __utma=22912363.305236889.1644313202.1644596299.1644596299.1; _ga_0RRFFBEY1Z=GS1.1.1666979054.1.1.1666979176.0.0.0; _ga_RZLH7X2GKH=GS1.1.1666979006.1.1.1666979180.0.0.0; _ga_Z7VSP86PJW=GS1.1.1686962996.1.1.1686963732.0.0.0; twk_uuid_5e7a5f3e69e9320caabc94d1=^%^7B^%^22uuid^%^22^%^3A^%^221.1hH36fSGhGKbRILPEBywIJqiNJQ4zpdnW5oiera4zwz6Tm9XI5UqybCv7HVY2g2OEEcZZFuMIx3pFUNsflEFTo5U7Xjny4yUMaIaRRXKyEZGu14M0fW^%^22^%^2C^%^22version^%^22^%^3A3^%^2C^%^22domain^%^22^%^3A^%^22utp.edu.co^%^22^%^2C^%^22ts^%^22^%^3A1686976409234^%^7D; _ga_8VSMX1ZG9K=GS1.1.1686976405.1.0.1686976413.0.0.0; _ga_2XR75BNKZB=GS1.1.1688235086.1.1.1688235438.0.0.0; _ga_18KFKSF1RT=GS1.1.1692152061.1.1.1692152402.0.0.0; _ga_PMSHKX9WFX=GS1.1.1692766053.7.1.1692767256.0.0.0; _ga_8NJ62ZVLVW=GS1.1.1694747827.104.1.1694747845.0.0.0; _gid=GA1.3.1129539938.1695074286; _ga=GA1.1.305236889.1644313202; _ga_SYKY30KFNG=GS1.1.1695087253.28.0.1695087256.0.0.0; _ga_GN0Y5HV03N=GS1.1.1695087257.3.0.1695087263.0.0.0; PHPSESSID=i9d05c9qoj69m75prnc752kn70" ^
+  -H "Origin: https://app4.utp.edu.co" ^
+  -H "Referer: https://app4.utp.edu.co/pe/" ^
+  -H "Sec-Fetch-Dest: empty" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" ^
+  -H "X-Requested-With: XMLHttpRequest" ^
+  -H "sec-ch-ua: ^\^"Chromium^\^";v=^\^"116^\^", ^\^"Not)A;Brand^\^";v=^\^"24^\^", ^\^"Google Chrome^\^";v=^\^"116^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  --data-raw "4df00b65b13eb36f04cf5a12bb97a89f=a518bcb6859d5b2bb32572b1789df88a632244153c9ce2cd9c6f7488c64ee181&txtUrio=1004685950&txtPsswd=Pepeelmago123&cocat=0" ^
+  --compressed
+nueva
+curl "https://app4.utp.edu.co/pe/validacion.php" ^
+  -H "Accept: application/json, text/javascript, */*; q=0.01" ^
+  -H "Accept-Language: es-ES,es;q=0.9" ^
+  -H "Connection: keep-alive" ^
+  -H "Content-Type: application/x-www-form-urlencoded" ^
+  -H "Cookie: __utma=22912363.305236889.1644313202.1644596299.1644596299.1; _ga_0RRFFBEY1Z=GS1.1.1666979054.1.1.1666979176.0.0.0; _ga_RZLH7X2GKH=GS1.1.1666979006.1.1.1666979180.0.0.0; _ga_Z7VSP86PJW=GS1.1.1686962996.1.1.1686963732.0.0.0; twk_uuid_5e7a5f3e69e9320caabc94d1=^%^7B^%^22uuid^%^22^%^3A^%^221.1hH36fSGhGKbRILPEBywIJqiNJQ4zpdnW5oiera4zwz6Tm9XI5UqybCv7HVY2g2OEEcZZFuMIx3pFUNsflEFTo5U7Xjny4yUMaIaRRXKyEZGu14M0fW^%^22^%^2C^%^22version^%^22^%^3A3^%^2C^%^22domain^%^22^%^3A^%^22utp.edu.co^%^22^%^2C^%^22ts^%^22^%^3A1686976409234^%^7D; _ga_8VSMX1ZG9K=GS1.1.1686976405.1.0.1686976413.0.0.0; _ga_2XR75BNKZB=GS1.1.1688235086.1.1.1688235438.0.0.0; _ga_18KFKSF1RT=GS1.1.1692152061.1.1.1692152402.0.0.0; _ga_PMSHKX9WFX=GS1.1.1692766053.7.1.1692767256.0.0.0; _ga_8NJ62ZVLVW=GS1.1.1694747827.104.1.1694747845.0.0.0; _gid=GA1.3.1129539938.1695074286; _ga=GA1.1.305236889.1644313202; _ga_SYKY30KFNG=GS1.1.1695087253.28.0.1695087256.0.0.0; _ga_GN0Y5HV03N=GS1.1.1695087257.3.0.1695087263.0.0.0; PHPSESSID=i9d05c9qoj69m75prnc752kn70" ^
+  -H "Origin: https://app4.utp.edu.co" ^
+  -H "Referer: https://app4.utp.edu.co/pe/" ^
+  -H "Sec-Fetch-Dest: empty" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "X-Requested-With: XMLHttpRequest" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  --data-raw "4df00b65b13eb36f04cf5a12bb97a89f=a518bcb6859d5b2bb32572b1789df88a632244153c9ce2cd9c6f7488c64ee181&txtUrio=1004685950&txtPsswd=Pepeelmago123&cocat=0" ^
+  --compressed
+curl "https://app4.utp.edu.co/pe/utp.php" ^
+  -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7" ^
+  -H "Accept-Language: es-ES,es;q=0.9" ^
+  -H "Connection: keep-alive" ^
+  -H "Cookie: __utma=22912363.305236889.1644313202.1644596299.1644596299.1; _ga_0RRFFBEY1Z=GS1.1.1666979054.1.1.1666979176.0.0.0; _ga_RZLH7X2GKH=GS1.1.1666979006.1.1.1666979180.0.0.0; _ga_Z7VSP86PJW=GS1.1.1686962996.1.1.1686963732.0.0.0; twk_uuid_5e7a5f3e69e9320caabc94d1=^%^7B^%^22uuid^%^22^%^3A^%^221.1hH36fSGhGKbRILPEBywIJqiNJQ4zpdnW5oiera4zwz6Tm9XI5UqybCv7HVY2g2OEEcZZFuMIx3pFUNsflEFTo5U7Xjny4yUMaIaRRXKyEZGu14M0fW^%^22^%^2C^%^22version^%^22^%^3A3^%^2C^%^22domain^%^22^%^3A^%^22utp.edu.co^%^22^%^2C^%^22ts^%^22^%^3A1686976409234^%^7D; _ga_8VSMX1ZG9K=GS1.1.1686976405.1.0.1686976413.0.0.0; _ga_2XR75BNKZB=GS1.1.1688235086.1.1.1688235438.0.0.0; _ga_18KFKSF1RT=GS1.1.1692152061.1.1.1692152402.0.0.0; _ga_PMSHKX9WFX=GS1.1.1692766053.7.1.1692767256.0.0.0; _ga_8NJ62ZVLVW=GS1.1.1694747827.104.1.1694747845.0.0.0; _gid=GA1.3.1129539938.1695074286; _ga=GA1.1.305236889.1644313202; _ga_SYKY30KFNG=GS1.1.1695087253.28.0.1695087256.0.0.0; _ga_GN0Y5HV03N=GS1.1.1695087257.3.0.1695087263.0.0.0; PHPSESSID=i9d05c9qoj69m75prnc752kn70" ^
+  -H "Referer: https://app4.utp.edu.co/pe/" ^
+  -H "Sec-Fetch-Dest: document" ^
+  -H "Sec-Fetch-Mode: navigate" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Upgrade-Insecure-Requests: 1" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" ^
+  -H "sec-ch-ua: ^\^"Chromium^\^";v=^\^"116^\^", ^\^"Not)A;Brand^\^";v=^\^"24^\^", ^\^"Google Chrome^\^";v=^\^"116^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  --compressed

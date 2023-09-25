@@ -1,0 +1,17 @@
+utp
+
+_ga	GA1.1.160690911.1695092598	GA1.1.160690911.1695092598
+_ga_SYKY30KFNG	GS1.1.1695092597.1.0.1695092597.0.0.0
+_gat_gtag_UA_54933869_1	1
+_gid GA1.3.1704441946.1695092598
+
+pe
+
+PHPSESSID	s70v6ca22h67n3gpvvc468snp0
+_ga_GN0Y5HV03N	GS1.1.1695092761.1.0.1695093097.0.0.0
+
+
+https://
+
+openssl s_client -connect incomplete-chain.badssl.com:443 -servername incomplete-chain.badssl.com | Out-File -FilePath "logcertfile.txt" -Encoding utf8
+openssl s_client -connect app4.utp.edu.co:443 -servername app4.utp.edu.co | Out-File -FilePath "logcertfile.txt" -Encoding utf8

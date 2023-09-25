@@ -1,0 +1,24 @@
+{
+  "name": "utp-cookie",
+  "version": "1.0.0",
+  "description": "voy a ver como poder obtener la cookie de ingreso de usuario de la utp",
+  "main": "prueba.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "cross-env pepe=hola node prueba.js",
+    "horario": "cross-env NODE_EXTRA_CA_CERTS=.\\certificados\\intermediate.pem node ./ejemplo/horario.mjs",
+    "start": "cross-env NODE_EXTRA_CA_CERTS=.\\certificados\\intermediate.pem node prueba.mjs"
+  },
+  "keywords": [
+    "cookie",
+    "utp",
+    "register"
+  ],
+  "author": "Drlag",
+  "license": "ISC",
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "node-fetch": "^3.3.2",
+    "node-html-parser": "^6.1.10"
+  }
+}

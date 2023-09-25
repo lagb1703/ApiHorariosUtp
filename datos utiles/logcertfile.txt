@@ -1,0 +1,136 @@
+﻿CONNECTED(000001A0)
+---
+Certificate chain
+ 0 s:C = CO, ST = Risaralda, L = Pereira, O = Universidad Tecnologica de Pereira-UTP, CN = *.utp.edu.co
+   i:C = US, O = DigiCert Inc, CN = DigiCert TLS RSA SHA256 2020 CA1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan 31 00:00:00 2023 GMT; NotAfter: Jan 30 23:59:59 2024 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGzjCCBbagAwIBAgIQBzamaOJNmjNAddoaEzOH1TANBgkqhkiG9w0BAQsFADBP
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMSkwJwYDVQQDEyBE
+aWdpQ2VydCBUTFMgUlNBIFNIQTI1NiAyMDIwIENBMTAeFw0yMzAxMzEwMDAwMDBa
+Fw0yNDAxMzAyMzU5NTlaMHsxCzAJBgNVBAYTAkNPMRIwEAYDVQQIEwlSaXNhcmFs
+ZGExEDAOBgNVBAcTB1BlcmVpcmExLzAtBgNVBAoTJlVuaXZlcnNpZGFkIFRlY25v
+bG9naWNhIGRlIFBlcmVpcmEtVVRQMRUwEwYDVQQDDAwqLnV0cC5lZHUuY28wggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDvjo+HuUw3GVtfVMXcMztp8due
+Cgse51jevkFXKUDfpdQKzEU1hOgvEep6vmO+BjesAx9ErusoPZBkyy8uuHUSsO/a
+UOWiFjiCT4taQ8pQu80Uk3IL0SALgb/JedkpqxoJDc76+Xxk8gHeH3pIG3V5rgit
+fJzVAiifNAfSk11ThqbREGuFbKwjw9TyAR3tKR4yj71EBSOE/qpiq7yvhrojbaYQ
+GMvJLp77xD+/SbY1RXDle2ejeK/HfjRjxLplyAKAHMBB5E0cqMy6IsYx+HLyi0ou
+zBUy0GXrAVOtasXtZmouAzrh94eM/YiNs7MH0075D30wLgvFqgX120JQSitpAgMB
+AAGjggN4MIIDdDAfBgNVHSMEGDAWgBS3a6LqqKqEjHnqtNoPmLLFlXa59DAdBgNV
+HQ4EFgQUGYNjVZSbkYgB3b4ObbpPmh41TtYwIwYDVR0RBBwwGoIMKi51dHAuZWR1
+LmNvggp1dHAuZWR1LmNvMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEF
+BQcDAQYIKwYBBQUHAwIwgY8GA1UdHwSBhzCBhDBAoD6gPIY6aHR0cDovL2NybDMu
+ZGlnaWNlcnQuY29tL0RpZ2lDZXJ0VExTUlNBU0hBMjU2MjAyMENBMS00LmNybDBA
+oD6gPIY6aHR0cDovL2NybDQuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0VExTUlNBU0hB
+MjU2MjAyMENBMS00LmNybDA+BgNVHSAENzA1MDMGBmeBDAECAjApMCcGCCsGAQUF
+BwIBFhtodHRwOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwfwYIKwYBBQUHAQEEczBx
+MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wSQYIKwYBBQUH
+MAKGPWh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFRMU1JTQVNI
+QTI1NjIwMjBDQTEtMS5jcnQwCQYDVR0TBAIwADCCAX4GCisGAQQB1nkCBAIEggFu
+BIIBagFoAHcA7s3QZNXbGs7FXLedtM0TojKHRny87N7DUUhZRnEftZsAAAGGCZ8p
+UgAABAMASDBGAiEAw0YlbamHPidjmBBga8+gJZp7SWci9sowsglcCFuZgkcCIQD5
+tSsMR87qcgeLtQwa2mPcr+2XS6wCADHAT8mNarLmzQB1AHPZnokbTJZ4oCB9R53m
+ssYc0FFecRkqjGuAEHrBd3K1AAABhgmfKZcAAAQDAEYwRAIgTC0E/ODolIZwhDOn
+MCJgkfOcgc8BndFmVwdekV3Dum0CID8T5O4aJ42d+dCGFvO6yowrQqFWgCD4m0qc
+Emsi/qldAHYASLDja9qmRzQP5WoC+p0w6xxSActW3SyB2bu/qznYhHMAAAGGCZ8p
+XwAABAMARzBFAiA0tsvMC6tW1cx0uN7s3FOEgCgwAmh6qt2Gjq7jvhEIgAIhAMKL
+s2MqGXwa0AfxgvY3q2tFJ2Mg6wNHmIFpF8F28dicMA0GCSqGSIb3DQEBCwUAA4IB
+AQAKllXLjnvVM2evbFuBPUhlQGZSAdAxrQrZgbMeeCwllwOxiB+A6od6qPoyHpBr
+nVY4K8tVjXmUjw6fBzgsD3Node8Jvoo6M9nMrLn6sMAmd8/sW8anR7k1jlIsEWj9
+08EsP2QTZqji5SRnWhB8+kas7yfRJhkp6jaGwZv+cEug1HCxraSkLYLslzvNEo3y
+2r0ssvqUyQyvCVezydJXwBisIgytQWYxHABcKeeI6VMX3biyoXRyY/CiRHgrmCNi
+LAqSQ6vZvEPttFLwds3iljxyd/UG2nYCJ03w9/zH92kHCb78ixwV5lqiK7jOB0JZ
+3wUJ2xm5xYrE69rokpseNSug
+-----END CERTIFICATE-----
+subject=C = CO, ST = Risaralda, L = Pereira, O = Universidad Tecnologica de Pereira-UTP, CN = *.utp.edu.co
+issuer=C = US, O = DigiCert Inc, CN = DigiCert TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2318 bytes and written 401 bytes
+Verification error: unable to verify the first certificate
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 21 (unable to verify the first certificate)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_256_GCM_SHA384
+    Session-ID: 3B55212EE021DD1C1CA8330ACAE1F8B1CC94775C356A430024966646906A0C80
+    Session-ID-ctx: 
+    Resumption PSK: 055C2190C11AF5185423D8D1DFAB36925EBC36FAE9E0212719DEC2D0A75BAC3148325CD5A29E5D1D86A379ED441997CD
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 01 cb 6d 87 2c 01 00 00-35 bd 09 65 00 00 00 00   ..m.,...5..e....
+    0010 - 8c 72 98 cb 48 b1 b5 c5-96 86 95 30 a9 26 7b 04   .r..H......0.&{.
+    0020 - 24 b6 f9 22 7d ff df 73-0b ab 59 dd a0 1e 2b 26   $.."}..s..Y...+&
+    0030 - ae f9 0e 25 d0 13 f4 b0-96 98 13 c4 a4 1f f3 d7   ...%............
+    0040 - c7 28 da 06 02 21 e2 0f-cd 40 e3 5f e1 6d 80 1b   .(...!...@._.m..
+    0050 - 9e 24 7c 9e 33 bb 40 1e-36 73 22 51 90 59 5b 7f   .$|.3.@.6s"Q.Y[.
+    0060 - 4a 47 6d 2e 1c 5f 75 b9-c5 cd af 30 c1 5b f4 83   JGm.._u....0.[..
+    0070 - 91 b1 73 88 8e 7e eb c9-cb 75 fb a1 74 02 58 af   ..s..~...u..t.X.
+    0080 - 1f d8 74 18 c6 dc 4c ef-fa 10 62 83 40 fc ee 5c   ..t...L...b.@..\
+    0090 - 40 7c 03 57 e8 e2 b7 dc-5b 01 cf 82 6f b5 f1 b9   @|.W....[...o...
+    00a0 - 02 66 e1 3d 47 ab e3 e8-31 65 3b d7 e4 56 03 46   .f.=G...1e;..V.F
+    00b0 - ca 6e cb 6c ef 8a d5 aa-1c 86 11 5c 4c 6e f1 ef   .n.l.......\Ln..
+    00c0 - 69 b4 a0 2c 10 cc 7f c7-42 47 ca e9 4c d5 cd 9a   i..,....BG..L...
+
+    Start Time: 1695144880
+    Timeout   : 7200 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_256_GCM_SHA384
+    Session-ID: 3C760D7A05C7ACBCDADA8C9CFC697D5FA51B422F7A1F779D0906F45F1A9C932C
+    Session-ID-ctx: 
+    Resumption PSK: 9A661073E6A9557C18D36CDCDD6255578E194208128A4319DC4EF96BB13EAB89624F9A73CFD5B392BD269DBC868D5E0F
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 01 cb 6d 87 2c 01 00 00-35 bd 09 65 00 00 00 00   ..m.,...5..e....
+    0010 - 61 89 bf 8b 90 c2 30 d8-2c ce d7 91 6f 19 0a 4c   a.....0.,...o..L
+    0020 - 5c b2 f1 ba f9 20 9a 5a-ef b0 58 3f d6 f7 6c ca   \.... .Z..X?..l.
+    0030 - 13 0c e4 ce 03 9f 4b 0f-8e 66 32 2e e1 55 fe e3   ......K..f2..U..
+    0040 - 36 d5 47 df 4d 99 1a a2-01 3c d4 3d 47 60 0c 7e   6.G.M....<.=G`.~
+    0050 - f2 b4 00 8e aa 34 69 47-73 89 55 31 87 c3 f4 15   .....4iGs.U1....
+    0060 - 9d 51 40 54 35 5f 1e e0-59 71 fc c7 e8 a4 07 5d   .Q@T5_..Yq.....]
+    0070 - db 6f cb 45 12 d0 38 1f-7f d1 dc 78 61 7e 7d f6   .o.E..8....xa~}.
+    0080 - 00 d3 57 b8 47 30 5e 03-18 d5 c0 cb 1c 8d 9c 76   ..W.G0^........v
+    0090 - e2 cb 92 7c 39 33 2a 9a-46 70 97 32 6e a8 57 88   ...|93*.Fp.2n.W.
+    00a0 - c0 0d 56 4e 79 9e cc 41-c8 87 e5 d1 d9 da 2a e1   ..VNy..A......*.
+    00b0 - f1 e4 73 ac 8a d8 12 8a-4b 32 10 d9 d8 a1 a2 84   ..s.....K2......
+    00c0 - bf 31 29 5b 79 e6 39 b3-ff 52 2b dc 94 cf 60 51   .1)[y.9..R+...`Q
+
+    Start Time: 1695144880
+    Timeout   : 7200 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK
