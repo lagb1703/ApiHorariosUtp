@@ -2,6 +2,9 @@
 import {parse} from 'node-html-parser';
 import fetch from 'node-fetch';
 import { Agent } from 'https';
+import dotenv from 'dotenv';
+
+dotenv.config();
 
 let ID;
 

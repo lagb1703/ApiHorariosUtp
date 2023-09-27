@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "cross-env pepe=hola node prueba.js",
-    "horario": "cross-env NODE_EXTRA_CA_CERTS=.\\certificados\\intermediate.pem node ./ejemplo/horario.mjs",
+    "crossStart": "cross-env NODE_EXTRA_CA_CERTS=.\\certificados\\intermediate.pem node prueba.mjs",
+    "horario": "node ./ejemplo/horario.mjs",
     "start": "cross-env NODE_EXTRA_CA_CERTS=.\\certificados\\intermediate.pem node prueba.mjs"
   },
   "keywords": [
@@ -17,7 +18,7 @@
   "author": "Drlag",
   "license": "ISC",
   "devDependencies": {
-    "cross-env": "^7.0.3",
+    "dotenv": "^16.3.1",
     "node-fetch": "^3.3.2",
     "node-html-parser": "^6.1.10"
   }

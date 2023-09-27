@@ -1,7 +1,7 @@
 import {parse} from 'node-html-parser';
 import fetch from 'node-fetch';
 import { Agent } from 'https';
-import { promises } from 'dns';
+import dotenv from "dit";
 
 class UTPApi{
     /*
