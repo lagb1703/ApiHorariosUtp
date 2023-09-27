@@ -4,11 +4,9 @@
   "description": "voy a ver como poder obtener la cookie de ingreso de usuario de la utp",
   "main": "prueba.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "cross-env pepe=hola node prueba.js",
-    "crossStart": "cross-env NODE_EXTRA_CA_CERTS=.\\certificados\\intermediate.pem node prueba.mjs",
+    "crossprueba": "cross-env NODE_EXTRA_CA_CERTS=.\\certificados\\intermediate.pem node prueba.mjs",
     "horario": "node ./ejemplo/horario.mjs",
-    "start": "cross-env NODE_EXTRA_CA_CERTS=.\\certificados\\intermediate.pem node prueba.mjs"
+    "start": "node prueba.mjs"
   },
   "keywords": [
     "cookie",

@@ -11,3 +11,5 @@ npm i --save-dev cross-env
 y ejecutar:
 
 cross{comando}
+
+las mayoria de mis funciones son asyncronicas, asi que sera necesario que utilises o .then o await
